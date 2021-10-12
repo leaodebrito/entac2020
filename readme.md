@@ -18,6 +18,9 @@ A concepção de formas arquitetônicas complexas requer, além de uma reformula
 
 Revit, Dynamo, Rhinoceros, Grasshopper
 
-##Código
-
+## Códigos
+Algoritmo utilizado no Grasshopper/Rhinoceros
 ![Alt text](https://github.com/leaodebrito/entac2020/blob/master/help/Programação%20Grasshopper.png)
+
+Algoritmo utilizado no Dynamo/Revit
+![Alt text](https://github.com/leaodebrito/entac2020/blob/master/help/Programação%20dynamo.png)
